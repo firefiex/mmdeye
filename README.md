@@ -1,2 +1,0 @@
-# mmdeye
-learn git
